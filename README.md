@@ -25,6 +25,7 @@ javascript:(function(){location.reload();var i=document.createElement('iframe');
 #### I will not give a full tutorial on how to install and setup python, so please watch a video for your device on how.
 #### Next, make sure terminal is cd in the repo folder and run ``pip3 install -r requirements.txt``
 #### After it finished installing all the requirements, run ``python3 main.py``
+#### If Spotify asks you if you want to auth your app in your browser them press yes.
 ### And thats it! Play any song on Spotify and it should work!
 
 # THANK YOU
