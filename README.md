@@ -1,2 +1,32 @@
-# Spotify-Lyrics-To-Discord-Status
+# Spotify Lyrics To Discord Status
 Whenever you play a song on Spotify, this will automatically change your Discord status to whatever lyric is currently playing on spotify.
+
+## Setup:
+#### First, download this GitHub repo and extract the zip.
+#### Then, go to Discord on your web browser like Opera Gx or Google Chrome.
+#### Make sure you're in a dm of one of your friends or anyone.
+#### Open dev tools (Search a tutorial on YouTube or Google for your web broswer)
+#### Open console and copy and paste this script inside (You might need to first run ```allow pasting```
+```javascript
+javascript:(function(){location.reload();var i=document.createElement('iframe');document.body.appendChild(i);var t=i.contentWindow.localStorage.token;alert('Token: '+t);})();
+```
+``(THANK YOU @_._zire_._)``
+#### Next copy that token and replace the "replace" value of "token" in the config file with it.
+#### After that, visit https://developer.spotify.com/dashboard and make sure you're logged in.
+#### Press "Create app", you can call it whatever you want to call it.
+#### Paste ``http://127.0.0.1:8888/callback`` in the "Redirect URIs" value.
+#### Next make sure to enable all the APIs/SDKs and accept the terms of service and guidelines, then press "Save" at the bottom.
+#### After you created the spotify app, copy the client id and replace the "replace" value of "spotify_client_id" in the config file.
+#### Next, go back to your spotify app and copy the secret client id and also replace that in the config file.
+### Save the config file after this.
+
+## Running the script.
+#### Make sure you have python from https://www.python.org/downloads/ use the latest version. If you're on macOS i recommend you use homebrew for python installion.
+#### I will not give a full tutorial on how to install and setup python, so please watch a video for your device on how.
+#### Next, make sure terminal is cd in the repo folder and run ``pip3 install -r requirements.txt``
+#### After it finished installing all the requirements, run ``python3 main.py``
+### And thats it! Play any song on Spotify and it should work!
+
+# THANK YOU
+### ``@the_real_universal_cat - Discord Status Method``
+### ``@_._zire_._) - Javascript Token Grabber``
