@@ -1,7 +1,7 @@
 # Spotify Lyrics To Discord Status
 Whenever you play a song on Spotify, this will automatically change your Discord status to whatever lyric is currently playing on spotify.
 
-    **``Warning: Using scripts to automate or “self-bot” a personal Discord account violates Discord’s Terms of Service (ToS). This can lead to your account being suspended or permanently banned by Discord, and many server owners will also ban accounts that show automatically rotating statuses or other automated behavior. If you need automation, create a proper bot account via the Discord Developer Portal and follow the official API rules.``**
+    Warning: Using scripts to automate or “self-bot” a personal Discord account violates Discord’s Terms of Service (ToS). This can lead to your account being suspended or permanently banned by Discord, and many server owners will also ban accounts that show automatically rotating statuses or other automated behavior. If you need automation, create a proper bot account via the Discord Developer Portal and follow the official API rules.
 
 <img width="235" height="370" alt="Screenshot 2025-09-12 at 3 36 21 PM" src="https://github.com/user-attachments/assets/41ac79bc-7547-4ba3-a683-503176baa314" />
 
