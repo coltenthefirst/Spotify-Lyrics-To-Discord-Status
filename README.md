@@ -4,7 +4,9 @@ Whenever you play a song on Spotify, this will automatically change your Discord
 <img width="235" height="370" alt="Screenshot 2025-09-12 at 3 36 21 PM" src="https://github.com/user-attachments/assets/41ac79bc-7547-4ba3-a683-503176baa314" />
 
 There is a bit of delay with the music and the video when I was adding over audio because of apple airplay. It's more synced than the videos.
+
 https://github.com/user-attachments/assets/7f61353d-c64d-4379-94a1-2a392fb3e7f7
+
 https://github.com/user-attachments/assets/8409181c-3e63-41a3-92d2-f0109b1671e9
 
 ## Setup:
